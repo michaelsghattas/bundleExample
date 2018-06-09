@@ -1,3 +1,2 @@
-# michaelsghattas.github.io
-My github public site
+# My github public site
 https://michaelsghattas.github.io/
